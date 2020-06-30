@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+
+    <!-- 'allow http-request'  // ★★★★★ step #42) -->
+    <!-- Add this to manifest for #43 -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true"> static.themoviedb.org </domain>
+    </domain-config>
+
+</network-security-config>
