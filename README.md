@@ -1,7 +1,3 @@
-'Main Screenshot' &nbsp;&nbsp;
-![cinemalight_app](https://user-images.githubusercontent.com/26533575/86554893-da427780-bf1c-11ea-8d55-98198fdd3d9c.jpg)
-
-
 Search 'Spiderman' &nbsp;&nbsp;
 ![spiderman](https://user-images.githubusercontent.com/26533575/86554926-efb7a180-bf1c-11ea-84a1-09aa9a685390.jpg)
 
