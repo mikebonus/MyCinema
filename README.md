@@ -1,28 +1,17 @@
 <b>**Main Page**</b> <br></br>
-![7777](https://user-images.githubusercontent.com/26533575/86555614-d9aae080-bf1e-11ea-8175-ddd9194f490a.jpg) 
-
-
+![1](https://user-images.githubusercontent.com/26533575/92070800-0a6e9100-ed7b-11ea-849c-9a4aec7940ea.jpg)
 
 <br></br><b>Search 'Spiderman'</b><br></br>
-![spiderman_app](https://user-images.githubusercontent.com/26533575/86555684-0f4fc980-bf1f-11ea-8337-ca47ed840465.jpg)
-
-
+![2](https://user-images.githubusercontent.com/26533575/92070804-0c385480-ed7b-11ea-9791-71aedf8ec708.jpg)
 
 <br></br><b>Search 'Gone With the Wind'</b><br></br>
-![gonewiththewind_app](https://user-images.githubusercontent.com/26533575/86554934-f7774600-bf1c-11ea-9c1d-593555eb8917.jpg)
-
-
+![3](https://user-images.githubusercontent.com/26533575/92070806-0d698180-ed7b-11ea-856b-ec35073db774.jpg)
 
 <br></br><b>Search 'Parasite'</b><br></br>
-![parasite_app](https://user-images.githubusercontent.com/26533575/86554966-0fe76080-bf1d-11ea-8263-f257efffb317.jpg)
-
-
+![4](https://user-images.githubusercontent.com/26533575/92070808-0e021800-ed7b-11ea-91b8-beabea98a4e8.jpg)
 
 <br></br><b>Data Modeling for JSON Response </b><br></br>
-<img width="958" alt="111" src="https://user-images.githubusercontent.com/26533575/86555119-8a17e500-bf1d-11ea-94e1-e5062d314271.png">
-
-
+<img width="575" alt="5" src="https://user-images.githubusercontent.com/26533575/92070814-10fd0880-ed7b-11ea-8658-ffd04d28cd38.png">
 
 <br></br><b>RETROFIT for making a NETWORK-REQUEST</b><br></br>
-<img width="946" alt="222" src="https://user-images.githubusercontent.com/26533575/86555141-97cd6a80-bf1d-11ea-841b-f20ccf490339.png">
-
+<img width="568" alt="6" src="https://user-images.githubusercontent.com/26533575/92070819-14908f80-ed7b-11ea-90d2-d8ace7978ba9.png">
