@@ -1,3 +1,10 @@
+This is a movie-data fetching application [Work in Progress]. 
+The entire source code is fully commented for anyone interested in reviewing. 
+The source is code based on Mitch Tabian's REST-API lecture on Food Application using REST-API  
+in the link below. I used to be a subscribed user of his course and used his source code (https://codingwithmitch.com/)
+to build my own version of REST-API through <b>https://www.themoviedb.org/</b>. 
+Based on his source code, everything has been redesigned/reimplemented by myself.
+
 <b>**Main Page**</b> <br></br>
 ![1](https://user-images.githubusercontent.com/26533575/92070800-0a6e9100-ed7b-11ea-849c-9a4aec7940ea.jpg)
 
