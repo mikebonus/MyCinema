@@ -1,4 +1,4 @@
-This is a movie-data fetching application [Work in Progress]. 
+This is a movie-data fetching application <b>[Work in Progress]</b>. 
 The entire source code is fully commented for anyone interested in reviewing. 
 The source is code based on Mitch Tabian's REST-API lecture on Food Application in the link below. 
 
